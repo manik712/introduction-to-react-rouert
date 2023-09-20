@@ -17,6 +17,8 @@ const Header = () => {
           */}
           <NavLink to='/User'>User</NavLink>
          {/* <Link to='/Users'>Users</Link> */}
+
+         <NavLink to='/Users'>Users</NavLink>
          
         
        </nav>
